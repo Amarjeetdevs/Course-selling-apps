@@ -19,7 +19,7 @@ Welcome to the Course Selling Application! This is a web application designed fo
 
 ## Technologies Used
 
--Tailwindcss 
+- Tailwindcss 
 - JavaScript
 - Node.js
 - Express.js
