@@ -29,7 +29,7 @@ Welcome to the Course Selling Application! This is a web application designed fo
 
 ## Live Demo
 
-Check out the live demo of the application [here](#).
+Check out the live demo of the application [here](https://academor.netlify.app/).
 
 ## How to Run Locally
 
